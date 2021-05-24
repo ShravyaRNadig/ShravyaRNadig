@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working on Web Dev
 - 🌱 I’m currently learning Frameworks<!-- - 👯 I’m looking to collaborate on  - 🤔 I’m looking for help with  -->
-- 💬 Ask me about Computer Science Tech.
-<!-- - 📫 How to reach me: ... -->
+- 💬 Ask me about Computer Science Tech.<!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Hello!!
 
