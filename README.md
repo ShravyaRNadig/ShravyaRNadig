@@ -1,5 +1,15 @@
-### Hi there ,I am Shravya 👋
+### Hi there 👋,
+<h1 align="center"> I'm Shravya R Nadig.</h1>
 
+- 📫 How to reach me **rshravyya@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/shravya-nadig-79nn4324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anomic" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/megha2507" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anomic30" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/megha25072001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anomic" height="30" width="40" /></a>
+<a href="https://leetcode.com/Megha25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anomic" height="30" width="40" /></a>
+</p>
 
 - 🔭 I’m currently working on Web Dev
 - 🌱 I’m currently learning Frameworks<!-- - 👯 I’m looking to collaborate on  - 🤔 I’m looking for help with  -->
