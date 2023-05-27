@@ -1,14 +1,12 @@
 ### Hi there 👋,
 <h1 align="center"> I'm Shravya R Nadig.</h1>
 
-🌱 I’m software engineer at Baygrape Technology Solutions
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/shravyyarnadig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anomic" height="30" width="40" /></a>
 <a href="https://leetcode.com/shravyyarnadig/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anomic" height="30" width="40" /></a>
 </p>
-
+- 🌱 I’m software engineer at Baygrape Technology Solutions
 - 🔭 I’m currently working on Web Dev
 - 🌱 I’m currently learning Frameworks<!-- - 👯 I’m looking to collaborate on  - 🤔 I’m looking for help with  -->
 - 💬 Ask me about Computer Science Tech.<!-- - 📫 How to reach me: ... -->
