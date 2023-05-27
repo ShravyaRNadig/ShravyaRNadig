@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋, -->
-<h1 align="center"> Hi, I'm Shravya R Nadig.</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/> Hi, I'm Shravya R Nadig</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
