@@ -1,7 +1,6 @@
 ### Hi there 👋,
 <h1 align="center"> I'm Shravya R Nadig.</h1>
 
-- 📫 How to reach me **rshravyya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,6 +17,9 @@
 - ⚡ Fun fact: Hello!!
 
 You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-ShravyaRNadig-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/ShravyaRNadig)
+
+
+- 📫 How to reach me **rshravyya@gmail.com**
 
 <br/>
 <a href="https://github.com/ShravyaRNadig">
